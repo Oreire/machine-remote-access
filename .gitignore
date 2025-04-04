@@ -1,4 +1,4 @@
 SSH-PRIVATE-KEY.pem
 *.pem
-remac-key
-remac-key.pub
+remac-keys
+remac-keys.pub

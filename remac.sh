@@ -1,6 +1,6 @@
 #!/bin/bash
 # Define an array of EC2 instance IP addresses
-machines=("13.40.53.250")
+machines=("35.179.130.197")
 
 # Loop through the array and execute the command on each machine
 for machine in "${machines[@]}"
